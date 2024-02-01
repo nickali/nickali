@@ -1,6 +1,13 @@
-## Yo
+
+![](https://raw.githubusercontent.com/nickali/nickali/main/nick-ali-github-banner.webp)
 
 PGP Public Key: [https://nali.org/public_key.asc](https://nali.org/public_key.asc)
+
+Ummmm....started out my career working at startups as a developer and architect.
+
+Then fell into marketing and have been focused on that for the last 15+ years. Have worked on marketing B2B SaaS platforms, developer tools, and API/SDKs.
+
+Big into open source. Was the [first Ubuntu Hall of Famer](https://fridge.ubuntu.com/2008/11/20/ubuntu-hall-of-fame/) way back when.
 
 <!--
 **nickali/nickali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
