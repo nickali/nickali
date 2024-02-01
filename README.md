@@ -1,7 +1,7 @@
 
 ![](https://raw.githubusercontent.com/nickali/nickali/main/nick-ali-github-banner.webp)
 
-PGP Public Key: [https://nali.org/public_key.asc](https://nali.org/public_key.asc)
+[**PGP Public Key**](https://nali.org/public_key.asc)
 
 Ummmm....started out my career working at startups as a developer and architect.
 
